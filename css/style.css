@@ -1,0 +1,40 @@
+body {margin-top: 60px;}
+#user-info-panel {margin-top: 20px;}
+blockquote{
+	color: grey!important;
+	font-size: 0.9em!important;
+}
+.icon-bar-a {padding-right: 4px;}
+.tweet-div {margin-bottom: 20px; margin-top: 4px;}
+.avatar {border-radius: 5px;width: 48px; height: 48px;}
+.tweet-user-id {font-size: 13px; color: #8899a6;}
+.tweet-time {font-size: 13px; color: #8899a6;}
+.news-img {border-radius: 5px;}
+.news-time {font-size: 13px; color: #8899a6;}
+#load-btn { margin-top: 20px; }
+#loading-tweets { margin-bottom: 10px;}
+#loading-tweets img { width: 80px; height: 80px;}
+.highlight {
+    background-color: #f7f7f9;
+    border: 1px solid #e1e1e8;
+    padding-top:4px;
+    margin-bottom: 4px;
+    border-right-color: #5bc0de;
+    border-right-width: 4px;
+}
+.news-row { margin-bottom: 10px;}
+.children {padding-left: 70px; 
+    display:none;
+}
+.child-style0 {display:none}
+.alert-info{display:none}
+#vis text:hover { opacity: .7 !important; cursor:pointer; }
+.user-img {
+border-radius: 7px;
+height: 72px;
+width: 72px;
+border: 2px solid #fff;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+color: #fff;
+}
